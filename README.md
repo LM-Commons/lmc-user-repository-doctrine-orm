@@ -1,7 +1,4 @@
-# Repository Template
+# LMC User Repository Doctrine ORM
 
-This is a repository template for new repositories.
-
-This file should be replaced by your own.
-
+Work in progress
 
